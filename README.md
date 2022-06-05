@@ -18,7 +18,7 @@ This table contains some key information related to different databases:
 
 -**DB information**: database information
 
--**Guide**: user guide,
+-**Guide**: user guide
 
 -**Accessibility**: how to access the database
 
