@@ -7,12 +7,19 @@ C. Tarzi, G. Zampieri, N. Sullivan, C. Angione,
 This table contains some key information related to different databases:
 
 -**DB name**: database name
+
 -**Scope**: contains a brief description of the reference database
+
 -**Available search**: consists of highliting all the possible ways to search for targeted information (e.g, pathways, reactions, etc.)
+
 -**Applications**: represents all the applications of the database
+
 -**DB information**: database information
+
 -**Guide**: user guide,
+
 -**Accessibility**: how to access the database
+
 -**URL**: the database website
 
 
