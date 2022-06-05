@@ -1,4 +1,4 @@
-## Metabolic model - Reference Database
+## Metabolic model - Reference Databases
 
 This repository aims to gather different databases used as reference for the genome-scale metabolic model reconstruction software tools presented in the paper:
 C. Tarzi, G. Zampieri, N. Sullivan, C. Angione,
